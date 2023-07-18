@@ -16,14 +16,15 @@ Here are some ideas to get you started:
 -->
 
 <!--깃허브 통계(사용언어)-->
-
 <div>
 [![Jeongyeon Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=jystella17&theme=dracula)](https://github.com/jystella17/github-readme-stats)
+</div>
+
+<div
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jystella17&langs_count=10&layout=compact)](https://github.com/jystella17/github-readme-stats)
 </div>
 
 <div>
 <!--백준 티어-->
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=allets1723)](https://solved.ac/allets1723)<br/>
 </div>
