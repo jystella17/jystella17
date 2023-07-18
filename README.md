@@ -17,11 +17,7 @@ Here are some ideas to get you started:
 
 <!--깃허브 통계(사용언어)-->
 <div>
-[![Jeongyeon Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=jystella17&theme=dracula)](https://github.com/jystella17/github-readme-stats)
-</div>
-
-<div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jystella17&langs_count=10&layout=compact)](https://github.com/jystella17/github-readme-stats)
+[![Jeongyeon Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=jystella17&theme=dracula)][![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jystella17&langs_count=10&layout=compact)]
 </div>
 
 <div>
