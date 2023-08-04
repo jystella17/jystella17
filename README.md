@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <div>
 
 <!--백준 티어 & 깃허브 통계(사용언어)-->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=allets1723)](https://solved.ac/allets1723) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jystella17&langs_count=6&layout=compact)](https://github.com/jystella17/github-readme-stats)</div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=allets1723)](https://solved.ac/allets1723) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jystella17&langs_count=10&layout=compact)](https://github.com/jystella17/github-readme-stats)</div>
 
 ---
 ## Tech Stack
