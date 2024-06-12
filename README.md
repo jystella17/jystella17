@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Here are some ideas to get you started:
+
+- 🌱 I’m currently learning Java and Spring Boot.
+- 📫 How to reach me: https://long-spectacles-ae3.notion.site/a43cb40f59f44b6fb62ec4a4585b8613
+
 <!--
 **jystella17/jystella17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
